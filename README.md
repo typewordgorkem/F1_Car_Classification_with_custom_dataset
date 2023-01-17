@@ -25,6 +25,11 @@ git clone https://github.com/<username>/f1-car-classification.git
 ```
 2. Just compile on Jupyter Notebook or supported IDE's.
 
+### Results
+The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The best results were obtained using the ResNet50 architecture, achieving an accuracy of 96% on the validation set.
+
+### Conclusion
+This project demonstrates the use of fine-tuning pre-trained models for object classification tasks using custom datasets. The models can be further improved by using techniques such as data augmentation and hyperparameter tuning. As a next step, it would be interesting to apply this approach to other object classification tasks and compare the results.
 
 
 
