@@ -21,7 +21,7 @@ In this project, we use several pre-trained deep learning architectures such as 
 ### Installing
 1. Clone the repository
 ```
-git clone https://github.com/<username>/f1-car-classification.git
+git clone https://github.com/typewordgorkem/f1-car-classification.git
 ```
 2. Just compile on Jupyter Notebook or supported IDE's.
 
